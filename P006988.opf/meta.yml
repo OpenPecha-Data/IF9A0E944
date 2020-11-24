@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD105917
   title: བོད་རིག་པའི་སྐོར་གྱི་རྩོམ་ཡིག་ཐོར་བུ།
-  volume: ''
+  volume:
+    2d498e96193d45b3b34a972909fed048:
+      image_group_id: I1PD105919
+      title: Volume 1 of bod rig pa'i skor gyi rtsom yig thor bu
+      volume_number: 1
+      total_pages: 186
   author: ''
+ebook_metadata:
+  title: བོད་རིག་པའི་སྐོར་གྱི་རྩོམ་ཡིག་ཐོར་བུ།
+  author: ''
+  sku: P006988
+  cover: cover.jpg
+  layers:
+  - pagination
